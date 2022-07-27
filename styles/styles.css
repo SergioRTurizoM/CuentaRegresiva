@@ -1,0 +1,31 @@
+body {
+    background: black; 
+    color: violet;
+    display: flex;
+    justify-content: center;
+    padding-top: 10%;
+    text-align: justify;
+}
+
+div p {
+  text-align: center;
+  font-size: 90px;
+}
+
+div h2 {
+  width: 200px;
+  text-decoration: dotted;
+  text-align: center;
+  text-transform: capitalize;
+ 
+}
+
+#cuadro {
+  background-color: aliceblue;
+  padding: 50px;
+  width: 200px;
+  height: 500px;
+  border-radius: 10rem;
+  border-style: dashed;
+  border-width: 10px;
+}
